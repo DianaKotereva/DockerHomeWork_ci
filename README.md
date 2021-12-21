@@ -9,13 +9,5 @@
 docker-compose build
 docker-compose up
 
-Протестировать решение можно с помощью ipynb файла в проекте. 
-
 Добавлен файл test.py, логирование процесса, мониторинг в prometheus и mlflow
-
-Образы в docker-hub:
-
-https://hub.docker.com/repository/docker/1306613066/worker_image
-
-https://hub.docker.com/repository/docker/1306613066/app_image
 
